@@ -1,0 +1,6 @@
+#ifndef RIDDINGTYPE_H
+#define RIDDINGTYPE_H
+
+enum class RiddingType{UTILITY,SPORTS,PASSENGER,COMMUTE};
+
+#endif // RIDDINGTYPE_H

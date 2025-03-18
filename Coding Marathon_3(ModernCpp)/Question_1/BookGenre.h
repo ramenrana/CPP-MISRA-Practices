@@ -1,0 +1,6 @@
+#ifndef BOOKGENRE_H
+#define BOOKGENRE_H
+
+enum class BookGenre{FICTION,ADVENTURE,BIOGRAPHY,OTHER};
+
+#endif // BOOKGENRE_H

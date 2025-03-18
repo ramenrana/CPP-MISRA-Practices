@@ -1,0 +1,6 @@
+#ifndef DRIVERCATAGORY_H
+#define DRIVERCATAGORY_H
+
+enum class DriverCatagory{COMMERCIAL,PRIVATE};
+
+#endif // DRIVERCATAGORY_H
